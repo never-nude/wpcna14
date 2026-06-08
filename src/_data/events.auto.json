@@ -1,33 +1,5 @@
 [
   {
-    "id": "city-monthly-educational-speaker-series-2026-04-08",
-    "slug": "city-monthly-educational-speaker-series-2026-04-08",
-    "title": "Monthly Educational Speaker Series",
-    "category": "Workshop",
-    "shortSummary": "Monthly Educational Speaker Series is listed on the official White Plains city calendar.",
-    "fullDescription": "Monthly Educational Speaker Series is listed on the official White Plains city calendar. It is set for White Plains Community Center, 65 Mitchell Place, White Plains, NY 10601. Use the official city page for agendas, updates, and any location changes.",
-    "startDate": "2026-04-08",
-    "endDate": "2026-04-08",
-    "startTime": "12:15",
-    "endTime": "13:15",
-    "locationName": "White Plains Community Center",
-    "locationAddress": "65 Mitchell Place, White Plains, NY 10601",
-    "image": "/assets/img/events/workshop.svg",
-    "flyerPdf": null,
-    "externalUrl": "https://www.cityofwhiteplains.com/Calendar.aspx?EID=4283&month=4&year=2026&day=8&calType=0",
-    "ctaLabel": "Open city page",
-    "featured": false,
-    "status": "past",
-    "tags": [
-      "city calendar",
-      "community center"
-    ],
-    "organizer": "City of White Plains",
-    "sourceUrl": "https://www.cityofwhiteplains.com/Calendar.aspx?EID=4283&month=4&year=2026&day=8&calType=0",
-    "sourceLabel": "City calendar",
-    "importSource": "city"
-  },
-  {
     "id": "library-artificial-intelligence-a-i-in-the-igloo-2026-04-09",
     "slug": "library-artificial-intelligence-a-i-in-the-igloo-2026-04-09",
     "title": "Artificial Intelligence (A.I.) in the Igloo",
@@ -2801,7 +2773,7 @@
     "externalUrl": "https://www.cityofwhiteplains.com/Calendar.aspx?EID=4253&month=6&year=2026&day=7&calType=0",
     "ctaLabel": "Open city page",
     "featured": false,
-    "status": "upcoming",
+    "status": "past",
     "tags": [
       "city calendar"
     ],
@@ -2828,7 +2800,7 @@
     "externalUrl": "https://www.cityofwhiteplains.com/Calendar.aspx?EID=4254&month=6&year=2026&day=7&calType=0",
     "ctaLabel": "Open city page",
     "featured": false,
-    "status": "upcoming",
+    "status": "past",
     "tags": [
       "city calendar"
     ],
@@ -4178,7 +4150,7 @@
     "title": "The Birth of NY in White Plains (History via Igloo)",
     "category": "Learning",
     "shortSummary": "Learn about why the 1776 approval of the Declaration of Independence, specifically at the White Plains court house, was such a big deal for New York and…",
-    "fullDescription": "Learn about why the 1776 approval of the Declaration of Independence, specifically at the White Plains court house, was such a big deal for New York and America. Held in the library's panoramic Igloo content room (near Trove entrance on 2nd floor), funded by the Library Foundation and Optimum. Presented by Digital Media Specialist Austin Olney. Check the library page for registration, tickets, and any schedule updates.",
+    "fullDescription": "Learn about why the 1776 approval of the Declaration of Independence, specifically at the White Plains court house, was such a big deal for New York and America. Held in the Library's panoramic Igloo content room (near Trove entrance on 2nd floor), funded by the Library Foundation and Optimum. Presented by Digital Media Specialist Austin Olney. Check the library page for registration, tickets, and any schedule updates.",
     "startDate": "2026-07-01",
     "endDate": "2026-07-01",
     "startTime": "17:15",
@@ -4926,6 +4898,35 @@
     "sourceUrl": "https://www.cityofwhiteplains.com/Calendar.aspx?EID=3658&month=7&year=2026&day=21&calType=0",
     "sourceLabel": "City calendar",
     "importSource": "city"
+  },
+  {
+    "id": "library-intro-to-google-sheets-part-2-2026-07-22",
+    "slug": "library-intro-to-google-sheets-part-2-2026-07-22",
+    "title": "Intro to Google Sheets, Part 2",
+    "category": "Learning",
+    "shortSummary": "Learn to use the fill handle, the IF function and conditional formatting in Google Sheets.",
+    "fullDescription": "Learn to use the fill handle, the IF function and conditional formatting in Google Sheets. Participants must have a Google account and know their username and password. Check the library page for registration, tickets, and any schedule updates.",
+    "startDate": "2026-07-22",
+    "endDate": "2026-07-22",
+    "startTime": "16:00",
+    "endTime": "17:15",
+    "locationName": "White Plains Public Library, Community Room",
+    "locationAddress": "100 Martine Avenue, White Plains, NY 10601",
+    "image": "/assets/img/events/learning.svg",
+    "flyerPdf": null,
+    "externalUrl": "https://calendar.whiteplainslibrary.org/event/16587278",
+    "ctaLabel": "Open library page",
+    "featured": false,
+    "status": "upcoming",
+    "tags": [
+      "digital technology",
+      "adults",
+      "library"
+    ],
+    "organizer": "White Plains Public Library",
+    "sourceUrl": "https://calendar.whiteplainslibrary.org/event/16587278",
+    "sourceLabel": "Library calendar",
+    "importSource": "library"
   },
   {
     "id": "city-neighborhood-nights-2026-07-23",
